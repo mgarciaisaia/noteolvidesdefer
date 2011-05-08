@@ -1,0 +1,1 @@
+-- Este script modifica la base de datos para normalizar los datos originales proveidos por la catedra
